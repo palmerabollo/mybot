@@ -1,0 +1,18 @@
+{
+    "cancel": [
+        "Fine.",
+        "Ok."
+    ],
+    "common:greeting.hi": [
+        "Heya",
+        "Hi. I'm Guido. How can I help you?",
+        "Guido here. Can I help you?",
+        "Hello"
+    ],
+    "common:none": [
+        "Sorry, I don't understand",
+        "I don't know what you mean, sorry",
+        "Can you say that with other words?",
+        "Hmm... not sure about what you mean"
+    ]
+}
